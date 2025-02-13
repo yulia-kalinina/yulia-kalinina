@@ -7,7 +7,7 @@
 
 #### Мои проекты:
 - React
-  - Сайт кинотеатра с возможностью купить билет и админкой для конфигурации залов - [дипломный проект в Нетологии](https://github.com/yulia-kalinina/CinemaWebsiteWithAdminPanel)
+  - Сайт кинотеатра с админкой для конфигурации залов - [дипломный проект в Нетологии](https://github.com/yulia-kalinina/CinemaWebsiteWithAdminPanel)
   - Игра крестики-нолики - [cмотреть репозиторий.]()
   
 - React + Next + Tailwind CSS
