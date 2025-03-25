@@ -10,7 +10,6 @@
 
 - React
   - Сайт кинотеатра с админкой для конфигурации залов - [дипломный проект в Нетологии](https://github.com/yulia-kalinina/CinemaWebsiteWithAdminPanel)
-  
 - Next + Tailwind CSS
 
   - Крестики-нолики с выбором количества игроков, таймерами хода. Делаю в рамках курса по React - [cмотреть репозиторий.](https://github.com/yulia-kalinina/TicTacToe_next)
@@ -28,6 +27,7 @@
 ![React](https://img.shields.io/badge/-React-474A51?logo=React)
 ![Webpack](https://img.shields.io/badge/-Webpack-474A51?logo=Webpack)
 ![Next.js](https://img.shields.io/badge/-Next.js-474A51?logo=Next.js)
+![Redux](https://img.shields.io/badge/-Redux-474A51?logo=Redux)
 ![Typescript](https://img.shields.io/badge/-Typescript-474A51?logo=Typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-474A51?logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-474A51?logo=CSS)
